@@ -39,15 +39,3 @@ Get your keys from following sites
 # Screenshot
 <a href="https://ik.imagekit.io/qavoxs3/weather-app/search.png">
 <img src="https://ik.imagekit.io/qavoxs3/weather-app/search.png" alt="Search Adaptive UI"></a>
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/action_storage.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/action_storage.png" alt="short view Adaptive UI"></a>
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/result_storage.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/result_storage.png" alt="storage item Adaptive UI"></a>
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/view_detail.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/view_detail.png" alt="detail view Adaptive UI"></a>
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/detail_2.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/detail_2.png" alt="detail view 2 Adaptive UI"></a>
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/delete.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/delete.png" alt="delete item Adaptive UI"></a>
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/result_storage_delet.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/result_storage_delet.png" alt="list after delete Adaptive UI"></a>
