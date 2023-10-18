@@ -37,9 +37,10 @@ Get your keys from following sites
 - delete location in localstorage
 
 # Screenshot
-<a href="https://drive.google.com/file/d/1XH9P97tzgbs797EZJ77L2pOdgO4f3p4C/view?usp=share_link">
-<a href="https://drive.google.com/file/d/1YUABiM3jbiAXxjKXn2uQkfCBvkSOoQku/view?usp=share_link">
-<a href="https://drive.google.com/file/d/1z7zrrH94IIiu--z7v6P9Hg9dWQ3MA9hj/view?usp=share_link">
-<a href="https://drive.google.com/file/d/1X-5VCgwUTwuf4RaiUBVI7P0pkSc9bBPF/view?usp=share_link">
-<a href="https://drive.google.com/file/d/1nooB0BD1Ts_PWef7uXI7usB9OdIfuC-c/view?usp=share_link">
-<a href="https://drive.google.com/file/d/1oSyQi2xV-BThzGjDZi7b1-FyBmFqhnLv/view?usp=share_link">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/search.png">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/action_storage.png">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/result_storage.png">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/view_detail.png">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/detail_2.png">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/delete.png">
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/result_storage_delet.png">
