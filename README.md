@@ -37,5 +37,5 @@ Get your keys from following sites
 - delete location in localstorage
 
 # Screenshot
-<a href="https://ik.imagekit.io/qavoxs3/weather-app/search.png">
-<img src="https://ik.imagekit.io/qavoxs3/weather-app/search.png" alt="Search Adaptive UI"></a>
+<a href="https://ik.imagekit.io/qavoxs3/weather-app/search_1.png">
+<img src="https://ik.imagekit.io/qavoxs3/weather-app/search_1.png" alt="Search Adaptive UI"></a>
